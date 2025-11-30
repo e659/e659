@@ -85,36 +85,6 @@
 
 ---
 
-# 📊 GitHub Stats (Auto Light/Dark Mode)
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=emanshalapy&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=emanshalapy&show_icons=true&theme=rose_pine"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=emanshalapy&show_icons=true" height="170" />
-  </picture>
-
-  <picture>
-    <source 
-      srcset="https://streak-stats.demolab.com/?user=emanshalapy&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com/?user=emanshalapy&theme=rose_pine"
-      media="(prefers-color-scheme:light)"
-    />
-    <img src="https://streak-stats.demolab.com/?user=emanshalapy" height="170" />
-  </picture>
-</p>
-
----
-
 # 🎨 Top Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanshalapy&layout=compact&theme=tokyonight&bg_color=00000000" />
